@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229445302691",
+    "project_id": "fir-backend-l-flutter",
+    "storage_bucket": "fir-backend-l-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229445302691:android:624b46c50669afadb88216",
+        "android_client_info": {
+          "package_name": "com.aemastudio.flutter_and_firebasee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229445302691-s3mmp6dnn1q3sup8340bqohoeutoesve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNYTBx9Nc4H9cEB9_XU5kZB21af9LXWjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229445302691-s3mmp6dnn1q3sup8340bqohoeutoesve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
